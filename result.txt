@@ -1,0 +1,10389 @@
+dx =
+
+     7
+    15
+    46
+     8
+    37
+    36
+    26
+    10
+    38
+    44
+    14
+    27
+    39
+    25
+    24
+    42
+    13
+    43
+    17
+    12
+    20
+    34
+    41
+    29
+     3
+     1
+     5
+    21
+    35
+    23
+    30
+     6
+    18
+     2
+    40
+    16
+    28
+    33
+    19
+    22
+     4
+    47
+    49
+    32
+    31
+     9
+    11
+    48
+    45
+
+
+xval =
+
+    0.0113
+    0.0118
+    0.0136
+    0.0191
+    0.0197
+    0.0251
+    0.0299
+    0.0329
+    0.0403
+    0.0448
+    0.0482
+    0.0498
+    0.0527
+    0.0607
+    0.0626
+    0.0644
+    0.0661
+    0.0663
+    0.0688
+    0.0742
+    0.0758
+    0.0794
+    0.0842
+    0.0850
+    0.0859
+    0.0886
+    0.0899
+    0.0921
+    0.0940
+    0.0979
+    0.0981
+    0.1140
+    0.1233
+    0.1249
+    0.1253
+    0.1282
+    0.1302
+    0.1341
+    0.1366
+    0.1376
+    0.1433
+    0.1529
+    0.1609
+    0.1763
+    0.1947
+    0.2333
+    0.2786
+    0.2979
+    0.5867
+
+
+idx =
+
+    14
+    15
+    26
+    37
+     8
+    27
+    13
+    24
+     7
+    38
+    12
+    25
+    28
+    16
+    10
+    40
+    21
+    17
+    44
+    34
+     1
+    33
+    29
+    18
+    22
+    20
+    42
+    39
+    31
+    36
+    47
+     5
+    30
+    46
+    43
+    23
+    19
+    35
+    41
+     6
+    32
+     3
+     2
+    49
+     4
+     9
+    48
+    11
+    45
+
+
+xval =
+
+    0.0072
+    0.0115
+    0.0173
+    0.0246
+    0.0258
+    0.0266
+    0.0305
+    0.0313
+    0.0314
+    0.0322
+    0.0423
+    0.0438
+    0.0439
+    0.0442
+    0.0469
+    0.0483
+    0.0534
+    0.0551
+    0.0558
+    0.0568
+    0.0576
+    0.0592
+    0.0608
+    0.0654
+    0.0683
+    0.0710
+    0.0713
+    0.0739
+    0.0781
+    0.0807
+    0.0812
+    0.0827
+    0.0847
+    0.0915
+    0.0931
+    0.1100
+    0.1135
+    0.1272
+    0.1282
+    0.1313
+    0.1441
+    0.2144
+    0.2290
+    0.2337
+    0.2387
+    0.2594
+    0.2904
+    0.3626
+    0.5301
+
+
+idx =
+
+    15
+    14
+     8
+    26
+    37
+    27
+    31
+    44
+    13
+     7
+    28
+    10
+    39
+    24
+    25
+    38
+    36
+    12
+    17
+    16
+    20
+    30
+    22
+    43
+     1
+    34
+    18
+    40
+    41
+    23
+    21
+    33
+    46
+    42
+    29
+    35
+    49
+     6
+     3
+    19
+     5
+    47
+    32
+     4
+     9
+     2
+    11
+    48
+    45
+
+
+xval =
+
+    0.0044
+    0.0051
+    0.0115
+    0.0271
+    0.0273
+    0.0274
+    0.0303
+    0.0386
+    0.0393
+    0.0410
+    0.0435
+    0.0474
+    0.0481
+    0.0575
+    0.0592
+    0.0609
+    0.0609
+    0.0622
+    0.0625
+    0.0669
+    0.0669
+    0.0677
+    0.0684
+    0.0782
+    0.0888
+    0.0950
+    0.0985
+    0.0987
+    0.1012
+    0.1026
+    0.1057
+    0.1115
+    0.1194
+    0.1208
+    0.1225
+    0.1232
+    0.1282
+    0.1550
+    0.1589
+    0.1776
+    0.1808
+    0.1842
+    0.1956
+    0.2130
+    0.2418
+    0.2631
+    0.3166
+    0.3275
+    0.4429
+
+
+idx =
+
+    15
+    14
+     8
+    37
+    26
+    27
+    13
+    24
+    25
+    39
+     7
+    36
+    38
+    28
+    10
+    46
+    41
+    20
+    30
+    17
+    16
+    44
+    12
+    29
+    18
+    22
+     1
+    40
+     6
+    43
+    23
+     3
+    33
+    35
+    21
+    19
+    34
+     5
+    47
+    32
+    49
+    31
+    42
+     4
+     9
+    48
+     2
+    11
+    45
+
+
+xval =
+
+    0.0051
+    0.0060
+    0.0134
+    0.0173
+    0.0250
+    0.0278
+    0.0342
+    0.0391
+    0.0406
+    0.0406
+    0.0410
+    0.0468
+    0.0468
+    0.0476
+    0.0513
+    0.0517
+    0.0527
+    0.0584
+    0.0662
+    0.0688
+    0.0709
+    0.0710
+    0.0834
+    0.0870
+    0.0875
+    0.0945
+    0.0951
+    0.0968
+    0.0971
+    0.1005
+    0.1011
+    0.1070
+    0.1095
+    0.1101
+    0.1128
+    0.1139
+    0.1264
+    0.1347
+    0.1350
+    0.1380
+    0.1638
+    0.1743
+    0.1848
+    0.1918
+    0.2277
+    0.2451
+    0.3798
+    0.4222
+    0.5821
+
+
+idx =
+
+    15
+    14
+     7
+     8
+    26
+    37
+    27
+    46
+    44
+    24
+    10
+    28
+    39
+    25
+    16
+    38
+    36
+    35
+    13
+     3
+    12
+     6
+    42
+    18
+    43
+     1
+    40
+    19
+    29
+    17
+    32
+     5
+    23
+    20
+    34
+    33
+    41
+    30
+    21
+    22
+     4
+    47
+    49
+    31
+     9
+     2
+    48
+    11
+    45
+
+
+xval =
+
+    0.0168
+    0.0185
+    0.0186
+    0.0213
+    0.0217
+    0.0221
+    0.0307
+    0.0308
+    0.0347
+    0.0377
+    0.0417
+    0.0432
+    0.0432
+    0.0454
+    0.0456
+    0.0458
+    0.0461
+    0.0486
+    0.0490
+    0.0557
+    0.0566
+    0.0626
+    0.0635
+    0.0642
+    0.0817
+    0.0843
+    0.0921
+    0.0947
+    0.0947
+    0.0964
+    0.1113
+    0.1131
+    0.1343
+    0.1350
+    0.1360
+    0.1398
+    0.1645
+    0.1646
+    0.1648
+    0.1672
+    0.1678
+    0.1714
+    0.1878
+    0.2057
+    0.2673
+    0.2924
+    0.2936
+    0.3640
+    0.4949
+
+
+idx =
+
+    27
+     8
+    15
+    37
+    26
+    12
+    13
+    42
+    14
+    28
+    46
+    24
+    16
+    44
+    40
+     7
+    22
+    25
+    10
+    38
+    23
+    36
+    33
+    39
+    17
+    20
+    18
+     1
+    29
+    21
+     3
+    34
+    31
+     6
+    35
+    30
+    49
+    43
+     5
+    19
+     9
+    41
+    32
+    47
+     4
+    11
+     2
+    48
+    45
+
+
+xval =
+
+    0.0128
+    0.0175
+    0.0185
+    0.0191
+    0.0195
+    0.0196
+    0.0213
+    0.0285
+    0.0380
+    0.0384
+    0.0404
+    0.0450
+    0.0558
+    0.0605
+    0.0664
+    0.0666
+    0.0900
+    0.0911
+    0.0947
+    0.0983
+    0.1010
+    0.1040
+    0.1046
+    0.1053
+    0.1081
+    0.1120
+    0.1161
+    0.1164
+    0.1220
+    0.1305
+    0.1378
+    0.1426
+    0.1470
+    0.1571
+    0.1612
+    0.1629
+    0.1646
+    0.1732
+    0.1741
+    0.1793
+    0.1889
+    0.1938
+    0.2265
+    0.2407
+    0.2527
+    0.2710
+    0.2761
+    0.3066
+    0.5006
+
+
+idx =
+
+    15
+    14
+    26
+     8
+    27
+    37
+    25
+    24
+    38
+    13
+    39
+    10
+    12
+     7
+    17
+    36
+    18
+    33
+    28
+    44
+    16
+    40
+    41
+    20
+    22
+    21
+     1
+    34
+    29
+    23
+     6
+    30
+     3
+    42
+    31
+    35
+    49
+    19
+    43
+     5
+    32
+    46
+     4
+    47
+    11
+     2
+     9
+    48
+    45
+
+
+xval =
+
+    0.0068
+    0.0152
+    0.0173
+    0.0194
+    0.0237
+    0.0248
+    0.0259
+    0.0310
+    0.0327
+    0.0338
+    0.0382
+    0.0402
+    0.0405
+    0.0414
+    0.0433
+    0.0437
+    0.0446
+    0.0504
+    0.0517
+    0.0527
+    0.0542
+    0.0554
+    0.0570
+    0.0602
+    0.0621
+    0.0631
+    0.0677
+    0.0727
+    0.0733
+    0.0761
+    0.0837
+    0.0896
+    0.0995
+    0.1015
+    0.1120
+    0.1238
+    0.1325
+    0.1425
+    0.1435
+    0.1449
+    0.1477
+    0.1501
+    0.1680
+    0.1795
+    0.2433
+    0.2754
+    0.2770
+    0.3192
+    0.4743
+
+
+idx =
+
+    15
+    27
+     8
+    14
+    26
+    37
+     7
+    40
+    12
+    21
+    16
+    13
+    28
+    38
+    33
+    10
+    44
+    30
+    24
+    25
+    39
+    17
+    46
+    22
+    18
+    29
+    36
+     6
+    20
+    42
+     5
+    43
+    31
+    35
+     1
+    23
+    19
+    34
+    47
+     9
+    49
+    41
+     4
+     3
+    32
+     2
+    48
+    11
+    45
+
+Index exceeds matrix dimensions.
+
+Error in run_NBKNN (line 90)
+    dec_values_T(c,:)=sum(sortValue(1:50,:));
+
+Error in demo (line 48)
+[accuracyIN]=run_NBKNN('amazon',1);
+ 
+>> load('dec_values_T.mat')
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+Index exceeds matrix dimensions.
+
+Error in run_NBKNN (line 90)
+    dec_values_T(c,:)=sum(sortValue(1:40,:));
+
+Error in demo (line 48)
+[accuracyIN]=run_NBKNN('amazon',1);
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+Index exceeds matrix dimensions.
+
+Error in run_NBKNN (line 90)
+    dec_values_T(c,:)=sum(sortValue(1:20,:));
+
+Error in demo (line 48)
+[accuracyIN]=run_NBKNN('amazon',1);
+ 
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> clear
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+Index exceeds matrix dimensions.
+
+Error in run_NBKNN (line 90)
+    dec_values_T(c,:)=sum(sortValue(1:10,:));
+
+Error in demo (line 48)
+[accuracyIN]=run_NBKNN('amazon',1);
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+K>> load('/home/xsx/Project/DANBNN_demo/Office+Caltech/data_amazon.mat')
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 67.68 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 66.89 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 67.68 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 66.49 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 67.55 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 66.49 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+cols =
+
+   105
+
+
+cols =
+
+    68
+
+
+cols =
+
+    59
+
+
+cols =
+
+    94
+
+
+cols =
+
+   126
+
+
+cols =
+
+    73
+
+
+cols =
+
+    93
+
+
+cols =
+
+    67
+
+
+cols =
+
+    75
+
+
+cols =
+
+    52
+
+
+cols =
+
+    39
+
+
+cols =
+
+    36
+
+
+cols =
+
+    79
+
+
+cols =
+
+    64
+
+
+cols =
+
+    38
+
+
+cols =
+
+    80
+
+
+cols =
+
+    88
+
+
+cols =
+
+    80
+
+
+cols =
+
+    30
+
+
+cols =
+
+    47
+
+
+cols =
+
+    92
+
+
+cols =
+
+   115
+
+
+cols =
+
+    74
+
+
+cols =
+
+    25
+
+
+cols =
+
+    40
+
+
+cols =
+
+    45
+
+
+cols =
+
+    75
+
+
+cols =
+
+    67
+
+
+cols =
+
+    85
+
+
+cols =
+
+    69
+
+
+cols =
+
+    65
+
+
+cols =
+
+    41
+
+
+cols =
+
+    73
+
+
+cols =
+
+    30
+
+
+cols =
+
+   113
+
+
+cols =
+
+    40
+
+
+cols =
+
+    48
+
+
+cols =
+
+   118
+
+
+cols =
+
+    21
+
+
+cols =
+
+    60
+
+
+cols =
+
+    59
+
+
+cols =
+
+    50
+
+
+cols =
+
+    77
+
+
+cols =
+
+    65
+
+
+cols =
+
+   141
+
+
+cols =
+
+    51
+
+
+cols =
+
+    79
+
+
+cols =
+
+    35
+
+
+cols =
+
+    82
+
+
+cols =
+
+    47
+
+
+cols =
+
+    61
+
+
+cols =
+
+    58
+
+
+cols =
+
+   127
+
+
+cols =
+
+    31
+
+
+cols =
+
+    47
+
+
+cols =
+
+    44
+
+
+cols =
+
+   156
+
+
+cols =
+
+    98
+
+
+cols =
+
+    79
+
+
+cols =
+
+    78
+
+
+cols =
+
+    49
+
+
+cols =
+
+    99
+
+
+cols =
+
+    57
+
+
+cols =
+
+   130
+
+
+cols =
+
+    91
+
+
+cols =
+
+    69
+
+
+cols =
+
+    67
+
+
+cols =
+
+    50
+
+
+cols =
+
+    45
+
+
+cols =
+
+    32
+
+
+cols =
+
+    62
+
+
+cols =
+
+    22
+
+
+cols =
+
+   107
+
+
+cols =
+
+    75
+
+
+cols =
+
+   100
+
+
+cols =
+
+   111
+
+
+cols =
+
+    98
+
+
+cols =
+
+    61
+
+
+cols =
+
+    90
+
+
+cols =
+
+   118
+
+
+cols =
+
+   111
+
+
+cols =
+
+    95
+
+
+cols =
+
+    99
+
+
+cols =
+
+   104
+
+
+cols =
+
+   127
+
+
+cols =
+
+    99
+
+
+cols =
+
+    96
+
+
+cols =
+
+   103
+
+
+cols =
+
+   104
+
+
+cols =
+
+   110
+
+
+cols =
+
+    85
+
+
+cols =
+
+   114
+
+
+cols =
+
+   104
+
+
+cols =
+
+   114
+
+
+cols =
+
+    38
+
+
+cols =
+
+    99
+
+
+cols =
+
+   110
+
+
+cols =
+
+   105
+
+
+cols =
+
+   115
+
+
+cols =
+
+    89
+
+
+cols =
+
+   107
+
+
+cols =
+
+   118
+
+
+cols =
+
+   104
+
+
+cols =
+
+    79
+
+
+cols =
+
+   115
+
+
+cols =
+
+   120
+
+
+cols =
+
+   111
+
+
+cols =
+
+   113
+
+
+cols =
+
+   102
+
+
+cols =
+
+   116
+
+
+cols =
+
+   112
+
+
+cols =
+
+    63
+
+
+cols =
+
+    88
+
+
+cols =
+
+    91
+
+
+cols =
+
+   113
+
+
+cols =
+
+   119
+
+
+cols =
+
+   135
+
+
+cols =
+
+   115
+
+
+cols =
+
+   106
+
+
+cols =
+
+   118
+
+
+cols =
+
+   124
+
+
+cols =
+
+   111
+
+
+cols =
+
+    90
+
+
+cols =
+
+    63
+
+
+cols =
+
+   108
+
+
+cols =
+
+    83
+
+
+cols =
+
+   114
+
+
+cols =
+
+    91
+
+
+cols =
+
+   107
+
+
+cols =
+
+    73
+
+
+cols =
+
+   142
+
+
+cols =
+
+    97
+
+
+cols =
+
+   101
+
+
+cols =
+
+   137
+
+
+cols =
+
+   118
+
+
+cols =
+
+   123
+
+
+cols =
+
+    66
+
+
+cols =
+
+   140
+
+
+cols =
+
+    61
+
+
+cols =
+
+   126
+
+
+cols =
+
+    43
+
+
+cols =
+
+   101
+
+
+cols =
+
+    95
+
+
+cols =
+
+   101
+
+
+cols =
+
+   108
+
+
+cols =
+
+   146
+
+
+cols =
+
+   102
+
+
+cols =
+
+   150
+
+
+cols =
+
+   100
+
+
+cols =
+
+   129
+
+
+cols =
+
+   132
+
+
+cols =
+
+   137
+
+
+cols =
+
+   107
+
+
+cols =
+
+   134
+
+
+cols =
+
+    99
+
+
+cols =
+
+   119
+
+
+cols =
+
+   123
+
+
+cols =
+
+    94
+
+
+cols =
+
+   107
+
+
+cols =
+
+    81
+
+
+cols =
+
+    92
+
+
+cols =
+
+    63
+
+
+cols =
+
+    60
+
+
+cols =
+
+    91
+
+
+cols =
+
+   123
+
+
+cols =
+
+    90
+
+
+cols =
+
+   131
+
+
+cols =
+
+   135
+
+
+cols =
+
+   132
+
+
+cols =
+
+   124
+
+
+cols =
+
+    97
+
+
+cols =
+
+   108
+
+
+cols =
+
+    99
+
+
+cols =
+
+    71
+
+
+cols =
+
+    82
+
+
+cols =
+
+   100
+
+
+cols =
+
+    95
+
+
+cols =
+
+   170
+
+
+cols =
+
+    78
+
+
+cols =
+
+    87
+
+
+cols =
+
+   118
+
+
+cols =
+
+   154
+
+
+cols =
+
+   131
+
+
+cols =
+
+   119
+
+
+cols =
+
+   101
+
+
+cols =
+
+    92
+
+
+cols =
+
+   167
+
+
+cols =
+
+   120
+
+
+cols =
+
+   107
+
+
+cols =
+
+   122
+
+
+cols =
+
+   130
+
+
+cols =
+
+   162
+
+
+cols =
+
+    41
+
+
+cols =
+
+   126
+
+
+cols =
+
+   178
+
+
+cols =
+
+   113
+
+
+cols =
+
+   138
+
+
+cols =
+
+   105
+
+
+cols =
+
+   115
+
+
+cols =
+
+   145
+
+
+cols =
+
+   166
+
+
+cols =
+
+    71
+
+
+cols =
+
+   128
+
+
+cols =
+
+   105
+
+
+cols =
+
+   103
+
+
+cols =
+
+   143
+
+
+cols =
+
+   112
+
+
+cols =
+
+   124
+
+
+cols =
+
+    60
+
+
+cols =
+
+    91
+
+
+cols =
+
+    55
+
+
+cols =
+
+    68
+
+
+cols =
+
+    60
+
+
+cols =
+
+    52
+
+
+cols =
+
+    73
+
+
+cols =
+
+    54
+
+
+cols =
+
+    57
+
+
+cols =
+
+    52
+
+
+cols =
+
+    80
+
+
+cols =
+
+    59
+
+
+cols =
+
+    21
+
+
+cols =
+
+    98
+
+
+cols =
+
+    64
+
+
+cols =
+
+    64
+
+
+cols =
+
+    73
+
+
+cols =
+
+    36
+
+
+cols =
+
+    56
+
+
+cols =
+
+    35
+
+
+cols =
+
+    82
+
+
+cols =
+
+    70
+
+
+cols =
+
+    57
+
+
+cols =
+
+    49
+
+
+cols =
+
+    57
+
+
+cols =
+
+    56
+
+
+cols =
+
+    67
+
+
+cols =
+
+    86
+
+
+cols =
+
+    55
+
+
+cols =
+
+    69
+
+
+cols =
+
+    74
+
+
+cols =
+
+    66
+
+
+cols =
+
+    60
+
+
+cols =
+
+    57
+
+
+cols =
+
+    17
+
+
+cols =
+
+    53
+
+
+cols =
+
+    76
+
+
+cols =
+
+    76
+
+
+cols =
+
+    87
+
+
+cols =
+
+    45
+
+
+cols =
+
+    90
+
+
+cols =
+
+   114
+
+
+cols =
+
+    75
+
+
+cols =
+
+    76
+
+
+cols =
+
+    37
+
+
+cols =
+
+    52
+
+
+cols =
+
+    37
+
+
+cols =
+
+    85
+
+
+cols =
+
+    39
+
+
+cols =
+
+    56
+
+
+cols =
+
+    75
+
+
+cols =
+
+    56
+
+
+cols =
+
+    35
+
+
+cols =
+
+    39
+
+
+cols =
+
+    53
+
+
+cols =
+
+    57
+
+
+cols =
+
+    65
+
+
+cols =
+
+    75
+
+
+cols =
+
+    46
+
+
+cols =
+
+    58
+
+
+cols =
+
+    68
+
+
+cols =
+
+    64
+
+
+cols =
+
+    43
+
+
+cols =
+
+    35
+
+
+cols =
+
+    71
+
+
+cols =
+
+    49
+
+
+cols =
+
+    55
+
+
+cols =
+
+    66
+
+
+cols =
+
+    73
+
+
+cols =
+
+    55
+
+
+cols =
+
+    69
+
+
+cols =
+
+    56
+
+
+cols =
+
+    47
+
+
+cols =
+
+    97
+
+
+cols =
+
+    61
+
+
+cols =
+
+    60
+
+
+cols =
+
+    54
+
+
+cols =
+
+    64
+
+
+cols =
+
+    58
+
+
+cols =
+
+   118
+
+
+cols =
+
+    63
+
+
+cols =
+
+    54
+
+
+cols =
+
+    83
+
+
+cols =
+
+    39
+
+
+cols =
+
+   106
+
+
+cols =
+
+    48
+
+
+cols =
+
+    37
+
+
+cols =
+
+    95
+
+
+cols =
+
+    85
+
+
+cols =
+
+    53
+
+
+cols =
+
+   118
+
+
+cols =
+
+    79
+
+
+cols =
+
+    28
+
+
+cols =
+
+    40
+
+
+cols =
+
+    93
+
+
+cols =
+
+    61
+
+
+cols =
+
+    72
+
+
+cols =
+
+    95
+
+
+cols =
+
+   122
+
+
+cols =
+
+    17
+
+
+cols =
+
+    15
+
+
+cols =
+
+    90
+
+
+cols =
+
+    80
+
+
+cols =
+
+    29
+
+
+cols =
+
+    57
+
+
+cols =
+
+    66
+
+
+cols =
+
+   147
+
+
+cols =
+
+    49
+
+
+cols =
+
+    91
+
+
+cols =
+
+    67
+
+
+cols =
+
+   111
+
+
+cols =
+
+   115
+
+
+cols =
+
+    47
+
+
+cols =
+
+    64
+
+
+cols =
+
+    75
+
+
+cols =
+
+    81
+
+
+cols =
+
+    71
+
+
+cols =
+
+    85
+
+
+cols =
+
+   109
+
+
+cols =
+
+    26
+
+
+cols =
+
+   122
+
+
+cols =
+
+    59
+
+
+cols =
+
+    94
+
+
+cols =
+
+    59
+
+
+cols =
+
+    28
+
+
+cols =
+
+    50
+
+
+cols =
+
+   120
+
+
+cols =
+
+   124
+
+
+cols =
+
+    82
+
+
+cols =
+
+    55
+
+
+cols =
+
+    86
+
+
+cols =
+
+    83
+
+
+cols =
+
+    99
+
+
+cols =
+
+    91
+
+
+cols =
+
+    80
+
+
+cols =
+
+    30
+
+
+cols =
+
+    62
+
+
+cols =
+
+    76
+
+
+cols =
+
+    91
+
+
+cols =
+
+    57
+
+
+cols =
+
+   107
+
+
+cols =
+
+    97
+
+
+cols =
+
+    78
+
+
+cols =
+
+    64
+
+
+cols =
+
+   131
+
+
+cols =
+
+    54
+
+
+cols =
+
+   109
+
+
+cols =
+
+    64
+
+
+cols =
+
+   102
+
+
+cols =
+
+    58
+
+
+cols =
+
+    45
+
+
+cols =
+
+    24
+
+
+cols =
+
+    82
+
+
+cols =
+
+   102
+
+
+cols =
+
+   110
+
+
+cols =
+
+    34
+
+
+cols =
+
+   103
+
+
+cols =
+
+    45
+
+
+cols =
+
+    80
+
+
+cols =
+
+    37
+
+
+cols =
+
+    40
+
+
+cols =
+
+    43
+
+
+cols =
+
+    24
+
+
+cols =
+
+    74
+
+
+cols =
+
+    98
+
+
+cols =
+
+    42
+
+
+cols =
+
+    69
+
+
+cols =
+
+    15
+
+
+cols =
+
+    85
+
+
+cols =
+
+   168
+
+
+cols =
+
+    88
+
+
+cols =
+
+    27
+
+
+cols =
+
+    41
+
+
+cols =
+
+    58
+
+
+cols =
+
+    49
+
+
+cols =
+
+    94
+
+
+cols =
+
+    34
+
+
+cols =
+
+   171
+
+
+cols =
+
+    70
+
+
+cols =
+
+   108
+
+
+cols =
+
+    51
+
+
+cols =
+
+    85
+
+
+cols =
+
+    91
+
+
+cols =
+
+    45
+
+
+cols =
+
+   102
+
+
+cols =
+
+    44
+
+
+cols =
+
+    42
+
+
+cols =
+
+    42
+
+
+cols =
+
+    32
+
+
+cols =
+
+    43
+
+
+cols =
+
+    78
+
+
+cols =
+
+    31
+
+
+cols =
+
+    54
+
+
+cols =
+
+    27
+
+
+cols =
+
+   112
+
+
+cols =
+
+    46
+
+
+cols =
+
+   160
+
+
+cols =
+
+    33
+
+
+cols =
+
+    56
+
+
+cols =
+
+    76
+
+
+cols =
+
+    90
+
+
+cols =
+
+    56
+
+
+cols =
+
+    38
+
+
+cols =
+
+    48
+
+
+cols =
+
+    71
+
+
+cols =
+
+    24
+
+
+cols =
+
+    97
+
+
+cols =
+
+    52
+
+
+cols =
+
+    33
+
+
+cols =
+
+    33
+
+
+cols =
+
+    32
+
+
+cols =
+
+    95
+
+
+cols =
+
+    38
+
+
+cols =
+
+    96
+
+
+cols =
+
+    91
+
+
+cols =
+
+    75
+
+
+cols =
+
+    94
+
+
+cols =
+
+    36
+
+
+cols =
+
+   137
+
+
+cols =
+
+    36
+
+
+cols =
+
+    51
+
+
+cols =
+
+    36
+
+
+cols =
+
+    87
+
+
+cols =
+
+    59
+
+
+cols =
+
+    44
+
+
+cols =
+
+    70
+
+
+cols =
+
+    91
+
+
+cols =
+
+   129
+
+
+cols =
+
+    65
+
+
+cols =
+
+   106
+
+
+cols =
+
+   127
+
+
+cols =
+
+    89
+
+
+cols =
+
+    35
+
+
+cols =
+
+   122
+
+
+cols =
+
+    72
+
+
+cols =
+
+    24
+
+
+cols =
+
+    27
+
+
+cols =
+
+    42
+
+
+cols =
+
+    45
+
+
+cols =
+
+    94
+
+
+cols =
+
+    32
+
+
+cols =
+
+    52
+
+
+cols =
+
+    94
+
+
+cols =
+
+    39
+
+
+cols =
+
+    22
+
+
+cols =
+
+    39
+
+
+cols =
+
+    72
+
+
+cols =
+
+    65
+
+
+cols =
+
+   138
+
+
+cols =
+
+    94
+
+
+cols =
+
+    57
+
+
+cols =
+
+    58
+
+
+cols =
+
+   121
+
+
+cols =
+
+    58
+
+
+cols =
+
+    22
+
+
+cols =
+
+   141
+
+
+cols =
+
+    49
+
+
+cols =
+
+    99
+
+
+cols =
+
+    62
+
+
+cols =
+
+    90
+
+
+cols =
+
+   120
+
+
+cols =
+
+    73
+
+
+cols =
+
+    73
+
+
+cols =
+
+    26
+
+
+cols =
+
+    57
+
+
+cols =
+
+    95
+
+
+cols =
+
+    40
+
+
+cols =
+
+   102
+
+
+cols =
+
+    58
+
+
+cols =
+
+   106
+
+
+cols =
+
+   119
+
+
+cols =
+
+    25
+
+
+cols =
+
+   132
+
+
+cols =
+
+    25
+
+
+cols =
+
+    28
+
+
+cols =
+
+   109
+
+
+cols =
+
+   110
+
+
+cols =
+
+   116
+
+
+cols =
+
+    50
+
+
+cols =
+
+    15
+
+
+cols =
+
+    82
+
+
+cols =
+
+   106
+
+
+cols =
+
+   106
+
+
+cols =
+
+    45
+
+
+cols =
+
+    82
+
+
+cols =
+
+    23
+
+
+cols =
+
+   157
+
+
+cols =
+
+    65
+
+
+cols =
+
+    70
+
+
+cols =
+
+   106
+
+
+cols =
+
+   106
+
+
+cols =
+
+    71
+
+
+cols =
+
+   104
+
+
+cols =
+
+    91
+
+
+cols =
+
+   152
+
+
+cols =
+
+    81
+
+
+cols =
+
+    40
+
+
+cols =
+
+    77
+
+
+cols =
+
+    80
+
+
+cols =
+
+    25
+
+
+cols =
+
+   132
+
+
+cols =
+
+    51
+
+
+cols =
+
+   106
+
+
+cols =
+
+   128
+
+
+cols =
+
+    53
+
+
+cols =
+
+    87
+
+
+cols =
+
+    95
+
+
+cols =
+
+    28
+
+
+cols =
+
+    41
+
+
+cols =
+
+    51
+
+
+cols =
+
+    43
+
+
+cols =
+
+   153
+
+
+cols =
+
+    38
+
+
+cols =
+
+    98
+
+
+cols =
+
+   117
+
+
+cols =
+
+    40
+
+
+cols =
+
+   151
+
+
+cols =
+
+    92
+
+
+cols =
+
+    74
+
+
+cols =
+
+    51
+
+
+cols =
+
+    37
+
+
+cols =
+
+    24
+
+
+cols =
+
+    16
+
+
+cols =
+
+    49
+
+
+cols =
+
+    45
+
+
+cols =
+
+    63
+
+
+cols =
+
+    48
+
+
+cols =
+
+    43
+
+
+cols =
+
+    46
+
+
+cols =
+
+    28
+
+
+cols =
+
+    43
+
+
+cols =
+
+    49
+
+
+cols =
+
+    48
+
+
+cols =
+
+    51
+
+
+cols =
+
+    52
+
+
+cols =
+
+    54
+
+
+cols =
+
+    43
+
+
+cols =
+
+    57
+
+
+cols =
+
+    62
+
+
+cols =
+
+    62
+
+
+cols =
+
+    15
+
+
+cols =
+
+    70
+
+
+cols =
+
+   105
+
+
+cols =
+
+    48
+
+
+cols =
+
+    65
+
+
+cols =
+
+    42
+
+
+cols =
+
+    62
+
+
+cols =
+
+    55
+
+
+cols =
+
+     6
+
+
+cols =
+
+    41
+
+
+cols =
+
+    46
+
+
+cols =
+
+    45
+
+
+cols =
+
+    65
+
+
+cols =
+
+    48
+
+
+cols =
+
+    51
+
+
+cols =
+
+    62
+
+
+cols =
+
+    53
+
+
+cols =
+
+    52
+
+
+cols =
+
+    83
+
+
+cols =
+
+    48
+
+
+cols =
+
+    57
+
+
+cols =
+
+    43
+
+
+cols =
+
+    59
+
+
+cols =
+
+    64
+
+
+cols =
+
+    36
+
+
+cols =
+
+    48
+
+
+cols =
+
+    63
+
+
+cols =
+
+    35
+
+
+cols =
+
+    47
+
+
+cols =
+
+    26
+
+
+cols =
+
+    30
+
+
+cols =
+
+    62
+
+
+cols =
+
+    48
+
+
+cols =
+
+    32
+
+
+cols =
+
+    55
+
+
+cols =
+
+    48
+
+
+cols =
+
+   142
+
+
+cols =
+
+    43
+
+
+cols =
+
+    49
+
+
+cols =
+
+    54
+
+
+cols =
+
+    38
+
+
+cols =
+
+    14
+
+
+cols =
+
+    46
+
+
+cols =
+
+    60
+
+
+cols =
+
+    56
+
+
+cols =
+
+    57
+
+
+cols =
+
+     3
+
+
+cols =
+
+    43
+
+
+cols =
+
+    73
+
+
+cols =
+
+    32
+
+
+cols =
+
+    32
+
+
+cols =
+
+    76
+
+
+cols =
+
+    57
+
+
+cols =
+
+    22
+
+
+cols =
+
+    24
+
+
+cols =
+
+    28
+
+
+cols =
+
+    49
+
+
+cols =
+
+    55
+
+
+cols =
+
+    48
+
+
+cols =
+
+   121
+
+
+cols =
+
+    74
+
+
+cols =
+
+    82
+
+
+cols =
+
+    78
+
+
+cols =
+
+    84
+
+
+cols =
+
+    40
+
+
+cols =
+
+    47
+
+
+cols =
+
+    65
+
+
+cols =
+
+    79
+
+
+cols =
+
+    24
+
+
+cols =
+
+    62
+
+
+cols =
+
+     9
+
+
+cols =
+
+    65
+
+
+cols =
+
+    73
+
+
+cols =
+
+   119
+
+
+cols =
+
+    71
+
+
+cols =
+
+    18
+
+
+cols =
+
+    49
+
+
+cols =
+
+    13
+
+
+cols =
+
+    69
+
+
+cols =
+
+   102
+
+
+cols =
+
+    64
+
+
+cols =
+
+    52
+
+
+cols =
+
+    54
+
+
+cols =
+
+    73
+
+
+cols =
+
+    54
+
+
+cols =
+
+     5
+
+
+cols =
+
+    13
+
+
+cols =
+
+     8
+
+
+cols =
+
+    70
+
+
+cols =
+
+    17
+
+
+cols =
+
+    79
+
+
+cols =
+
+    57
+
+
+cols =
+
+     9
+
+
+cols =
+
+    17
+
+
+cols =
+
+    18
+
+
+cols =
+
+    60
+
+
+cols =
+
+    44
+
+
+cols =
+
+    98
+
+
+cols =
+
+    11
+
+
+cols =
+
+   151
+
+
+cols =
+
+   118
+
+
+cols =
+
+   129
+
+
+cols =
+
+    61
+
+
+cols =
+
+    86
+
+
+cols =
+
+    41
+
+
+cols =
+
+    34
+
+
+cols =
+
+   102
+
+
+cols =
+
+   131
+
+
+cols =
+
+    90
+
+
+cols =
+
+    64
+
+
+cols =
+
+    38
+
+
+cols =
+
+   103
+
+
+cols =
+
+    62
+
+
+cols =
+
+     6
+
+
+cols =
+
+    32
+
+
+cols =
+
+    22
+
+
+cols =
+
+    54
+
+
+cols =
+
+    60
+
+
+cols =
+
+   180
+
+
+cols =
+
+   107
+
+
+cols =
+
+    15
+
+
+cols =
+
+    90
+
+
+cols =
+
+    54
+
+
+cols =
+
+    93
+
+
+cols =
+
+    16
+
+
+cols =
+
+    34
+
+
+cols =
+
+    80
+
+
+cols =
+
+    58
+
+
+cols =
+
+    29
+
+
+cols =
+
+    84
+
+
+cols =
+
+    41
+
+
+cols =
+
+    77
+
+
+cols =
+
+    33
+
+
+cols =
+
+    34
+
+
+cols =
+
+    57
+
+
+cols =
+
+    61
+
+
+cols =
+
+    36
+
+
+cols =
+
+    41
+
+
+cols =
+
+    41
+
+
+cols =
+
+    75
+
+
+cols =
+
+    47
+
+
+cols =
+
+    36
+
+
+cols =
+
+    37
+
+
+cols =
+
+    42
+
+
+cols =
+
+    59
+
+
+cols =
+
+    32
+
+
+cols =
+
+    56
+
+
+cols =
+
+    17
+
+
+cols =
+
+    46
+
+
+cols =
+
+    62
+
+
+cols =
+
+    42
+
+
+cols =
+
+    62
+
+
+cols =
+
+    37
+
+
+cols =
+
+    47
+
+
+cols =
+
+    45
+
+
+cols =
+
+    43
+
+
+cols =
+
+    38
+
+
+cols =
+
+    36
+
+
+cols =
+
+    57
+
+
+cols =
+
+    31
+
+
+cols =
+
+    49
+
+
+cols =
+
+    47
+
+
+cols =
+
+    48
+
+
+cols =
+
+    35
+
+
+cols =
+
+    60
+
+
+cols =
+
+    35
+
+
+cols =
+
+    64
+
+
+cols =
+
+    40
+
+
+cols =
+
+    49
+
+
+cols =
+
+    35
+
+
+cols =
+
+    47
+
+
+cols =
+
+    37
+
+
+cols =
+
+    16
+
+
+cols =
+
+    49
+
+
+cols =
+
+    52
+
+
+cols =
+
+    43
+
+
+cols =
+
+    87
+
+
+cols =
+
+    66
+
+
+cols =
+
+    31
+
+
+cols =
+
+    75
+
+
+cols =
+
+    34
+
+
+cols =
+
+   131
+
+
+cols =
+
+    35
+
+
+cols =
+
+    33
+
+
+cols =
+
+    54
+
+
+cols =
+
+    42
+
+
+cols =
+
+    50
+
+
+cols =
+
+    39
+
+
+cols =
+
+    43
+
+
+cols =
+
+    60
+
+
+cols =
+
+    36
+
+
+cols =
+
+    31
+
+
+cols =
+
+    32
+
+
+cols =
+
+    73
+
+
+cols =
+
+    31
+
+
+cols =
+
+   104
+
+
+cols =
+
+    47
+
+
+cols =
+
+    41
+
+
+cols =
+
+    55
+
+
+cols =
+
+    68
+
+
+cols =
+
+    47
+
+
+cols =
+
+    35
+
+
+cols =
+
+    69
+
+
+cols =
+
+    41
+
+
+cols =
+
+    69
+
+
+cols =
+
+    49
+
+
+cols =
+
+    37
+
+
+cols =
+
+    61
+
+
+cols =
+
+    57
+
+
+cols =
+
+    47
+
+
+NBKNN Amazon->Amazon, rec. rate: 66.23 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 65.44 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 65.96 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 65.30 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 65.44 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 67.68 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN Amazon->Amazon, rec. rate: 63.98 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+Testing NBKNN on class 1, with K=1...
+Testing NBKNN on class 2, with K=1...
+Testing NBKNN on class 3, with K=1...
+Testing NBKNN on class 4, with K=1...
+Testing NBKNN on class 5, with K=1...
+Testing NBKNN on class 6, with K=1...
+Testing NBKNN on class 7, with K=1...
+Testing NBKNN on class 8, with K=1...
+Testing NBKNN on class 9, with K=1...
+Testing NBKNN on class 10, with K=1...
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.09 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+Undefined function or variable 'amazon'.
+
+Error in demo (line 48)
+target=amazon;
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+Testing NBKNN on class 1, with K=1...
+Testing NBKNN on class 2, with K=1...
+Testing NBKNN on class 3, with K=1...
+Testing NBKNN on class 4, with K=1...
+Testing NBKNN on class 5, with K=1...
+Testing NBKNN on class 6, with K=1...
+Testing NBKNN on class 7, with K=1...
+Testing NBKNN on class 8, with K=1...
+Testing NBKNN on class 9, with K=1...
+Testing NBKNN on class 10, with K=1...
+
+NBKNN Amazon->Amazon, rec. rate: 63.06 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 67.94 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.09 % where K=1
+>> load('/home/xsx/Project/DANBNN_demo/Office+Caltech/data_amazon.mat')
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 63.06 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 67.28 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 36.12 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.20 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.09 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 35.68 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.09 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.96 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.42 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+>> load('perImage.mat')
+>> ztjc
+>> ztjc
+>> ztjc
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+>> ztjc
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.42 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 38.50 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.96 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.96 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 36.77 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.20 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN caltech->caltech, rec. rate: 38.18 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> load('perImage.mat')
+>> run_NBKNN_NORM
+Error using run_NBKNN_NORM (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+Undefined function or variable 'sigmal'.
+
+Error in run_NBKNN_NORM (line 97)
+        perVaule(i)=mu*sigmal;
+
+Error in demo (line 54)
+[accuracyIN]=run_NBKNN_NORM(target,1);
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+Undefined function 'min' for input arguments of type 'cell'.
+
+Error in run_NBKNN_NORM (line 114)
+[~, predict_labels_T]=min(dec_values_T,[],2);
+
+Error in demo (line 54)
+[accuracyIN]=run_NBKNN_NORM(target,1);
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN caltech->caltech, rec. rate: 14.21 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM caltech->caltech, rec. rate: 14.21 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM caltech->caltech, rec. rate: 30.91 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM caltech->caltech, rec. rate: 30.91 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> run_NBKNN_NORM
+Error using run_NBKNN_NORM (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM caltech->caltech, rec. rate: 27.55 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM caltech->caltech, rec. rate: 2.93 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM amazon->amazon, rec. rate: 54.49 % where K=1
+
+NBKNN amazon->amazon, rec. rate: 57.52 % where K=1
+>> run_NBKNN_NORM
+Error using run_NBKNN_NORM (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM amazon->amazon, rec. rate: 54.49 % where K=1
+
+NBKNN amazon->amazon, rec. rate: 59.50 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM amazon->amazon, rec. rate: 54.49 % where K=1
+
+NBKNN amazon->amazon, rec. rate: 67.94 % where K=1
+>>     0.0474
+    0.0506
+    0.0528
+    0.0529
+    0.0538
+    0.0541
+    0.0587
+    0.0599
+    0.0624
+    0.0686
+    0.0705
+    0.0802
+    0.0851
+    0.0897
+    0.0935
+    0.0948
+    0.1057
+    0.1078
+    0.1091
+    0.1125
+    0.1178
+    0.1180
+    0.1206
+    0.1241
+    0.1265
+    0.1268
+    0.1269
+    0.1282
+    0.1290
+    0.1335
+    0.1370
+    0.1383
+    0.1432
+    0.1445
+    0.1453
+    0.1539
+    0.1744
+    0.1793
+    0.2039
+    0.2057
+    0.2148
+    0.2879
+    0.3276
+    0.3318
+    0.3597
+    0.5090
+
+
+idx =
+
+     7
+    15
+    46
+     8
+    37
+    36
+    26
+    10
+    38
+    44
+    14
+    27
+    39
+    25
+    24
+    42
+    13
+    43
+    17
+    12
+    20
+    34
+    41
+    29
+     3
+     1
+     5
+    21
+    35
+    23
+    30
+     6
+    18
+     2
+    40
+    16
+    28
+    33
+    19
+    22
+     4
+    47
+    49
+    32
+    31
+     9
+    11
+    48
+    45
+
+
+xval =
+
+    0.0113
+    0.0118
+    0.0136
+    0.0191
+    0.0197
+    0.0251
+    0.0299
+    0.0329
+    0.0403
+    0.0448
+    0.0482
+    0.0498
+    0.0527
+    0.0607
+    0.0626
+    0.0644
+    0.0661
+    0.0663
+    0.0688
+    0.0742
+    0.0758
+    0.0794
+    0.0842
+    0.0850
+    0.0859
+    0.0886
+    0.0899
+    0.0921
+    0.0940
+    0.0979
+    0.0981
+    0.1140
+    0.1233
+    0.1249
+    0.1253
+    0.1282
+    0.1302
+    0.1341
+    0.1366
+    0.1376
+    0.1433
+    0.1529
+    0.1609
+    0.1763
+    0.1947
+    0.2333
+    0.2786
+    0.2979
+    0.5867
+
+
+idx =
+
+    14
+    15
+    26
+    37
+     8
+    27
+    13
+    24
+     7
+    38
+    12
+    25
+    28
+    16
+    10
+    40
+    21
+    17
+    44
+    34
+     1
+    33
+    29
+    18
+    22
+    20
+    42
+    39
+    31
+    36
+    47
+     5
+    30
+    46
+    43
+    23
+    19
+    35
+    41
+     6
+    32
+     3
+     2
+    49
+     4
+     9
+    48
+    11
+    45
+
+
+xval =
+
+    0.0072
+    0.0115
+    0.0173
+    0.0246
+    0.0258
+    0.0266
+    0.0305
+    0.0313
+    0.0314
+    0.0322
+    0.0423
+    0.0438
+    0.0439
+    0.0442
+    0.0469
+    0.0483
+    0.0534
+    0.0551
+    0.0558
+    0.0568
+    0.0576
+    0.0592
+    0.0608
+    0.0654
+    0.0683
+    0.0710
+    0.0713
+    0.0739
+    0.0781
+    0.0807
+    0.0812
+    0.0827
+    0.0847
+    0.0915
+    0.0931
+    0.1100
+    0.1135
+    0.1272
+    0.1282
+    0.1313
+    0.1441
+    0.2144
+    0.2290
+    0.2337
+    0.2387
+    0.2594
+    0.2904
+    0.3626
+    0.5301
+
+
+idx =
+
+    15
+    14
+     8
+    26
+    37
+    27
+    31
+    44
+    13
+     7
+    28
+    10
+    39
+    24
+    25
+    38
+    36
+    12
+    17
+    16
+    20
+    30
+    22
+    43
+     1
+    34
+    18
+    40
+    41
+    23
+    21
+    33
+    46
+    42
+    29
+    35
+    49
+     6
+     3
+    19
+     5
+    47
+    32
+     4
+     9
+     2
+    11
+    48
+    45
+
+
+xval =
+
+    0.0044
+    0.0051
+    0.0115
+    0.0271
+    0.0273
+    0.0274
+    0.0303
+    0.0386
+    0.0393
+    0.0410
+    0.0435
+    0.0474
+    0.0481
+    0.0575
+    0.0592
+    0.0609
+    0.0609
+    0.0622
+    0.0625
+    0.0669
+    0.0669
+    0.0677
+    0.0684
+    0.0782
+    0.0888
+    0.0950
+    0.0985
+    0.0987
+    0.1012
+    0.1026
+    0.1057
+    0.1115
+    0.1194
+    0.1208
+    0.1225
+    0.1232
+    0.1282
+    0.1550
+    0.1589
+    0.1776
+    0.1808
+    0.1842
+    0.1956
+    0.2130
+    0.2418
+    0.2631
+    0.3166
+    0.3275
+    0.4429
+
+
+idx =
+
+    15
+    14
+     8
+    37
+    26
+    27
+    13
+    24
+    25
+    39
+     7
+    36
+    38
+    28
+    10
+    46
+    41
+    20
+    30
+    17
+    16
+    44
+    12
+    29
+    18
+    22
+     1
+    40
+     6
+    43
+    23
+     3
+    33
+    35
+    21
+    19
+    34
+     5
+    47
+    32
+    49
+    31
+    42
+     4
+     9
+    48
+     2
+    11
+    45
+
+
+xval =
+
+    0.0051
+    0.0060
+    0.0134
+    0.0173
+    0.0250
+    0.0278
+    0.0342
+    0.0391
+    0.0406
+    0.0406
+    0.0410
+    0.0468
+    0.0468
+    0.0476
+    0.0513
+    0.0517
+    0.0527
+    0.0584
+    0.0662
+    0.0688
+    0.0709
+    0.0710
+    0.0834
+    0.0870
+    0.0875
+    0.0945
+    0.0951
+    0.0968
+    0.0971
+    0.1005
+    0.1011
+    0.1070
+    0.1095
+    0.1101
+    0.1128
+    0.1139
+    0.1264
+    0.1347
+    0.1350
+    0.1380
+    0.1638
+    0.1743
+    0.1848
+    0.1918
+    0.2277
+    0.2451
+    0.3798
+    0.4222
+    0.5821
+
+
+idx =
+
+    15
+    14
+     7
+     8
+    26
+    37
+    27
+    46
+    44
+    24
+    10
+    28
+    39
+    25
+    16
+    38
+    36
+    35
+    13
+     3
+    12
+     6
+    42
+    18
+    43
+     1
+    40
+    19
+    29
+    17
+    32
+     5
+    23
+    20
+    34
+    33
+    41
+    30
+    21
+    22
+     4
+    47
+    49
+    31
+     9
+     2
+    48
+    11
+    45
+
+
+xval =
+
+    0.0168
+    0.0185
+    0.0186
+    0.0213
+    0.0217
+    0.0221
+    0.0307
+    0.0308
+    0.0347
+    0.0377
+    0.0417
+    0.0432
+    0.0432
+    0.0454
+    0.0456
+    0.0458
+    0.0461
+    0.0486
+    0.0490
+    0.0557
+    0.0566
+    0.0626
+    0.0635
+    0.0642
+    0.0817
+    0.0843
+    0.0921
+    0.0947
+    0.0947
+    0.0964
+    0.1113
+    0.1131
+    0.1343
+    0.1350
+    0.1360
+    0.1398
+    0.1645
+    0.1646
+    0.1648
+    0.1672
+    0.1678
+    0.1714
+    0.1878
+    0.2057
+    0.2673
+    0.2924
+    0.2936
+    0.3640
+    0.4949
+
+
+idx =
+
+    27
+     8
+    15
+    37
+    26
+    12
+    13
+    42
+    14
+    28
+    46
+    24
+    16
+    44
+    40
+     7
+    22
+    25
+    10
+    38
+    23
+    36
+    33
+    39
+    17
+    20
+    18
+     1
+    29
+    21
+     3
+    34
+    31
+     6
+    35
+    30
+    49
+    43
+     5
+    19
+     9
+    41
+    32
+    47
+     4
+    11
+     2
+    48
+    45
+
+
+xval =
+
+    0.0128
+    0.0175
+    0.0185
+    0.0191
+    0.0195
+    0.0196
+    0.0213
+    0.0285
+    0.0380
+    0.0384
+    0.0404
+    0.0450
+    0.0558
+    0.0605
+    0.0664
+    0.0666
+    0.0900
+    0.0911
+    0.0947
+    0.0983
+    0.1010
+    0.1040
+    0.1046
+    0.1053
+    0.1081
+    0.1120
+    0.1161
+    0.1164
+    0.1220
+    0.1305
+    0.1378
+    0.1426
+    0.1470
+    0.1571
+    0.1612
+    0.1629
+    0.1646
+    0.1732
+    0.1741
+    0.1793
+    0.1889
+    0.1938
+    0.2265
+    0.2407
+    0.2527
+    0.2710
+    0.2761
+    0.3066
+    0.5006
+
+
+idx =
+
+    15
+    14
+    26
+     8
+    27
+    37
+    25
+    24
+    38
+    13
+    39
+    10
+    12
+     7
+    17
+    36
+    18
+    33
+    28
+    44
+    16
+    40
+    41
+    20
+    22
+    21
+     1
+    34
+    29
+    23
+     6
+    30
+     3
+    42
+    31
+    35
+    49
+    19
+    43
+     5
+    32
+    46
+     4
+    47
+    11
+     2
+     9
+    48
+    45
+
+
+xval =
+
+    0.0068
+    0.0152
+    0.0173
+    0.0194
+    0.0237
+    0.0248
+    0.0259
+    0.0310
+    0.0327
+    0.0338
+    0.0382
+    0.0402
+    0.0405
+    0.0414
+    0.0433
+    0.0437
+    0.0446
+    0.0504
+    0.0517
+    0.0527
+    0.0542
+    0.0554
+    0.0570
+    0.0602
+    0.0621
+    0.0631
+    0.0677
+    0.0727
+    0.0733
+    0.0761
+    0.0837
+    0.0896
+    0.0995
+    0.1015
+    0.1120
+    0.1238
+    0.1325
+    0.1425
+    0.1435
+    0.1449
+    0.1477
+    0.1501
+    0.1680
+    0.1795
+    0.2433
+    0.2754
+    0.2770
+    0.3192
+    0.4743
+
+
+idx =
+
+    15
+    27
+     8
+    14
+    26
+    37
+     7
+    40
+    12
+    21
+    16
+    13
+    28
+    38
+    33
+    10
+    44
+    30
+    24
+    25
+    39
+    17
+    46
+    22
+    18
+    29
+    36
+     6
+    20
+    42
+     5
+    43
+    31
+    35
+     1
+    23
+    19
+    34
+    47
+     9
+    49
+    41
+     4
+     3
+    32
+     2
+    48
+    11
+    45
+
+Index exceeds matrix dimensions.
+
+Error in run_NBKNN (line 90)
+    dec_values_T(c,:)=sum(sortValue(1:50,:));
+
+Error in demo (line 48)
+[accuracyIN]=run_NBKNN('amazon',1);
+ 
+>> load('dec_values_T.mat')
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+Index exceeds matrix dimensions.
+
+Error in run_NBKNN (line 90)
+    dec_values_T(c,:)=sum(sortValue(1:40,:));
+
+Error in demo (line 48)
+[accuracyIN]=run_NBKNN('amazon',1);
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+Index exceeds matrix dimensions.
+
+Error in run_NBKNN (line 90)
+    dec_values_T(c,:)=sum(sortValue(1:20,:));
+
+Error in demo (line 48)
+[accuracyIN]=run_NBKNN('amazon',1);
+ 
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> clear
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+Index exceeds matrix dimensions.
+
+Error in run_NBKNN (line 90)
+    dec_values_T(c,:)=sum(sortValue(1:10,:));
+
+Error in demo (line 48)
+[accuracyIN]=run_NBKNN('amazon',1);
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+K>> load('/home/xsx/Project/DANBNN_demo/Office+Caltech/data_amazon.mat')
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 67.68 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 66.89 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 67.68 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 66.49 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 67.55 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 66.49 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+cols =
+
+   105
+
+
+cols =
+
+    68
+
+
+cols =
+
+    59
+
+
+cols =
+
+    94
+
+
+cols =
+
+   126
+
+
+cols =
+
+    73
+
+
+cols =
+
+    93
+
+
+cols =
+
+    67
+
+
+cols =
+
+    75
+
+
+cols =
+
+    52
+
+
+cols =
+
+    39
+
+
+cols =
+
+    36
+
+
+cols =
+
+    79
+
+
+cols =
+
+    64
+
+
+cols =
+
+    38
+
+
+cols =
+
+    80
+
+
+cols =
+
+    88
+
+
+cols =
+
+    80
+
+
+cols =
+
+    30
+
+
+cols =
+
+    47
+
+
+cols =
+
+    92
+
+
+cols =
+
+   115
+
+
+cols =
+
+    74
+
+
+cols =
+
+    25
+
+
+cols =
+
+    40
+
+
+cols =
+
+    45
+
+
+cols =
+
+    75
+
+
+cols =
+
+    67
+
+
+cols =
+
+    85
+
+
+cols =
+
+    69
+
+
+cols =
+
+    65
+
+
+cols =
+
+    41
+
+
+cols =
+
+    73
+
+
+cols =
+
+    30
+
+
+cols =
+
+   113
+
+
+cols =
+
+    40
+
+
+cols =
+
+    48
+
+
+cols =
+
+   118
+
+
+cols =
+
+    21
+
+
+cols =
+
+    60
+
+
+cols =
+
+    59
+
+
+cols =
+
+    50
+
+
+cols =
+
+    77
+
+
+cols =
+
+    65
+
+
+cols =
+
+   141
+
+
+cols =
+
+    51
+
+
+cols =
+
+    79
+
+
+cols =
+
+    35
+
+
+cols =
+
+    82
+
+
+cols =
+
+    47
+
+
+cols =
+
+    61
+
+
+cols =
+
+    58
+
+
+cols =
+
+   127
+
+
+cols =
+
+    31
+
+
+cols =
+
+    47
+
+
+cols =
+
+    44
+
+
+cols =
+
+   156
+
+
+cols =
+
+    98
+
+
+cols =
+
+    79
+
+
+cols =
+
+    78
+
+
+cols =
+
+    49
+
+
+cols =
+
+    99
+
+
+cols =
+
+    57
+
+
+cols =
+
+   130
+
+
+cols =
+
+    91
+
+
+cols =
+
+    69
+
+
+cols =
+
+    67
+
+
+cols =
+
+    50
+
+
+cols =
+
+    45
+
+
+cols =
+
+    32
+
+
+cols =
+
+    62
+
+
+cols =
+
+    22
+
+
+cols =
+
+   107
+
+
+cols =
+
+    75
+
+
+cols =
+
+   100
+
+
+cols =
+
+   111
+
+
+cols =
+
+    98
+
+
+cols =
+
+    61
+
+
+cols =
+
+    90
+
+
+cols =
+
+   118
+
+
+cols =
+
+   111
+
+
+cols =
+
+    95
+
+
+cols =
+
+    99
+
+
+cols =
+
+   104
+
+
+cols =
+
+   127
+
+
+cols =
+
+    99
+
+
+cols =
+
+    96
+
+
+cols =
+
+   103
+
+
+cols =
+
+   104
+
+
+cols =
+
+   110
+
+
+cols =
+
+    85
+
+
+cols =
+
+   114
+
+
+cols =
+
+   104
+
+
+cols =
+
+   114
+
+
+cols =
+
+    38
+
+
+cols =
+
+    99
+
+
+cols =
+
+   110
+
+
+cols =
+
+   105
+
+
+cols =
+
+   115
+
+
+cols =
+
+    89
+
+
+cols =
+
+   107
+
+
+cols =
+
+   118
+
+
+cols =
+
+   104
+
+
+cols =
+
+    79
+
+
+cols =
+
+   115
+
+
+cols =
+
+   120
+
+
+cols =
+
+   111
+
+
+cols =
+
+   113
+
+
+cols =
+
+   102
+
+
+cols =
+
+   116
+
+
+cols =
+
+   112
+
+
+cols =
+
+    63
+
+
+cols =
+
+    88
+
+
+cols =
+
+    91
+
+
+cols =
+
+   113
+
+
+cols =
+
+   119
+
+
+cols =
+
+   135
+
+
+cols =
+
+   115
+
+
+cols =
+
+   106
+
+
+cols =
+
+   118
+
+
+cols =
+
+   124
+
+
+cols =
+
+   111
+
+
+cols =
+
+    90
+
+
+cols =
+
+    63
+
+
+cols =
+
+   108
+
+
+cols =
+
+    83
+
+
+cols =
+
+   114
+
+
+cols =
+
+    91
+
+
+cols =
+
+   107
+
+
+cols =
+
+    73
+
+
+cols =
+
+   142
+
+
+cols =
+
+    97
+
+
+cols =
+
+   101
+
+
+cols =
+
+   137
+
+
+cols =
+
+   118
+
+
+cols =
+
+   123
+
+
+cols =
+
+    66
+
+
+cols =
+
+   140
+
+
+cols =
+
+    61
+
+
+cols =
+
+   126
+
+
+cols =
+
+    43
+
+
+cols =
+
+   101
+
+
+cols =
+
+    95
+
+
+cols =
+
+   101
+
+
+cols =
+
+   108
+
+
+cols =
+
+   146
+
+
+cols =
+
+   102
+
+
+cols =
+
+   150
+
+
+cols =
+
+   100
+
+
+cols =
+
+   129
+
+
+cols =
+
+   132
+
+
+cols =
+
+   137
+
+
+cols =
+
+   107
+
+
+cols =
+
+   134
+
+
+cols =
+
+    99
+
+
+cols =
+
+   119
+
+
+cols =
+
+   123
+
+
+cols =
+
+    94
+
+
+cols =
+
+   107
+
+
+cols =
+
+    81
+
+
+cols =
+
+    92
+
+
+cols =
+
+    63
+
+
+cols =
+
+    60
+
+
+cols =
+
+    91
+
+
+cols =
+
+   123
+
+
+cols =
+
+    90
+
+
+cols =
+
+   131
+
+
+cols =
+
+   135
+
+
+cols =
+
+   132
+
+
+cols =
+
+   124
+
+
+cols =
+
+    97
+
+
+cols =
+
+   108
+
+
+cols =
+
+    99
+
+
+cols =
+
+    71
+
+
+cols =
+
+    82
+
+
+cols =
+
+   100
+
+
+cols =
+
+    95
+
+
+cols =
+
+   170
+
+
+cols =
+
+    78
+
+
+cols =
+
+    87
+
+
+cols =
+
+   118
+
+
+cols =
+
+   154
+
+
+cols =
+
+   131
+
+
+cols =
+
+   119
+
+
+cols =
+
+   101
+
+
+cols =
+
+    92
+
+
+cols =
+
+   167
+
+
+cols =
+
+   120
+
+
+cols =
+
+   107
+
+
+cols =
+
+   122
+
+
+cols =
+
+   130
+
+
+cols =
+
+   162
+
+
+cols =
+
+    41
+
+
+cols =
+
+   126
+
+
+cols =
+
+   178
+
+
+cols =
+
+   113
+
+
+cols =
+
+   138
+
+
+cols =
+
+   105
+
+
+cols =
+
+   115
+
+
+cols =
+
+   145
+
+
+cols =
+
+   166
+
+
+cols =
+
+    71
+
+
+cols =
+
+   128
+
+
+cols =
+
+   105
+
+
+cols =
+
+   103
+
+
+cols =
+
+   143
+
+
+cols =
+
+   112
+
+
+cols =
+
+   124
+
+
+cols =
+
+    60
+
+
+cols =
+
+    91
+
+
+cols =
+
+    55
+
+
+cols =
+
+    68
+
+
+cols =
+
+    60
+
+
+cols =
+
+    52
+
+
+cols =
+
+    73
+
+
+cols =
+
+    54
+
+
+cols =
+
+    57
+
+
+cols =
+
+    52
+
+
+cols =
+
+    80
+
+
+cols =
+
+    59
+
+
+cols =
+
+    21
+
+
+cols =
+
+    98
+
+
+cols =
+
+    64
+
+
+cols =
+
+    64
+
+
+cols =
+
+    73
+
+
+cols =
+
+    36
+
+
+cols =
+
+    56
+
+
+cols =
+
+    35
+
+
+cols =
+
+    82
+
+
+cols =
+
+    70
+
+
+cols =
+
+    57
+
+
+cols =
+
+    49
+
+
+cols =
+
+    57
+
+
+cols =
+
+    56
+
+
+cols =
+
+    67
+
+
+cols =
+
+    86
+
+
+cols =
+
+    55
+
+
+cols =
+
+    69
+
+
+cols =
+
+    74
+
+
+cols =
+
+    66
+
+
+cols =
+
+    60
+
+
+cols =
+
+    57
+
+
+cols =
+
+    17
+
+
+cols =
+
+    53
+
+
+cols =
+
+    76
+
+
+cols =
+
+    76
+
+
+cols =
+
+    87
+
+
+cols =
+
+    45
+
+
+cols =
+
+    90
+
+
+cols =
+
+   114
+
+
+cols =
+
+    75
+
+
+cols =
+
+    76
+
+
+cols =
+
+    37
+
+
+cols =
+
+    52
+
+
+cols =
+
+    37
+
+
+cols =
+
+    85
+
+
+cols =
+
+    39
+
+
+cols =
+
+    56
+
+
+cols =
+
+    75
+
+
+cols =
+
+    56
+
+
+cols =
+
+    35
+
+
+cols =
+
+    39
+
+
+cols =
+
+    53
+
+
+cols =
+
+    57
+
+
+cols =
+
+    65
+
+
+cols =
+
+    75
+
+
+cols =
+
+    46
+
+
+cols =
+
+    58
+
+
+cols =
+
+    68
+
+
+cols =
+
+    64
+
+
+cols =
+
+    43
+
+
+cols =
+
+    35
+
+
+cols =
+
+    71
+
+
+cols =
+
+    49
+
+
+cols =
+
+    55
+
+
+cols =
+
+    66
+
+
+cols =
+
+    73
+
+
+cols =
+
+    55
+
+
+cols =
+
+    69
+
+
+cols =
+
+    56
+
+
+cols =
+
+    47
+
+
+cols =
+
+    97
+
+
+cols =
+
+    61
+
+
+cols =
+
+    60
+
+
+cols =
+
+    54
+
+
+cols =
+
+    64
+
+
+cols =
+
+    58
+
+
+cols =
+
+   118
+
+
+cols =
+
+    63
+
+
+cols =
+
+    54
+
+
+cols =
+
+    83
+
+
+cols =
+
+    39
+
+
+cols =
+
+   106
+
+
+cols =
+
+    48
+
+
+cols =
+
+    37
+
+
+cols =
+
+    95
+
+
+cols =
+
+    85
+
+
+cols =
+
+    53
+
+
+cols =
+
+   118
+
+
+cols =
+
+    79
+
+
+cols =
+
+    28
+
+
+cols =
+
+    40
+
+
+cols =
+
+    93
+
+
+cols =
+
+    61
+
+
+cols =
+
+    72
+
+
+cols =
+
+    95
+
+
+cols =
+
+   122
+
+
+cols =
+
+    17
+
+
+cols =
+
+    15
+
+
+cols =
+
+    90
+
+
+cols =
+
+    80
+
+
+cols =
+
+    29
+
+
+cols =
+
+    57
+
+
+cols =
+
+    66
+
+
+cols =
+
+   147
+
+
+cols =
+
+    49
+
+
+cols =
+
+    91
+
+
+cols =
+
+    67
+
+
+cols =
+
+   111
+
+
+cols =
+
+   115
+
+
+cols =
+
+    47
+
+
+cols =
+
+    64
+
+
+cols =
+
+    75
+
+
+cols =
+
+    81
+
+
+cols =
+
+    71
+
+
+cols =
+
+    85
+
+
+cols =
+
+   109
+
+
+cols =
+
+    26
+
+
+cols =
+
+   122
+
+
+cols =
+
+    59
+
+
+cols =
+
+    94
+
+
+cols =
+
+    59
+
+
+cols =
+
+    28
+
+
+cols =
+
+    50
+
+
+cols =
+
+   120
+
+
+cols =
+
+   124
+
+
+cols =
+
+    82
+
+
+cols =
+
+    55
+
+
+cols =
+
+    86
+
+
+cols =
+
+    83
+
+
+cols =
+
+    99
+
+
+cols =
+
+    91
+
+
+cols =
+
+    80
+
+
+cols =
+
+    30
+
+
+cols =
+
+    62
+
+
+cols =
+
+    76
+
+
+cols =
+
+    91
+
+
+cols =
+
+    57
+
+
+cols =
+
+   107
+
+
+cols =
+
+    97
+
+
+cols =
+
+    78
+
+
+cols =
+
+    64
+
+
+cols =
+
+   131
+
+
+cols =
+
+    54
+
+
+cols =
+
+   109
+
+
+cols =
+
+    64
+
+
+cols =
+
+   102
+
+
+cols =
+
+    58
+
+
+cols =
+
+    45
+
+
+cols =
+
+    24
+
+
+cols =
+
+    82
+
+
+cols =
+
+   102
+
+
+cols =
+
+   110
+
+
+cols =
+
+    34
+
+
+cols =
+
+   103
+
+
+cols =
+
+    45
+
+
+cols =
+
+    80
+
+
+cols =
+
+    37
+
+
+cols =
+
+    40
+
+
+cols =
+
+    43
+
+
+cols =
+
+    24
+
+
+cols =
+
+    74
+
+
+cols =
+
+    98
+
+
+cols =
+
+    42
+
+
+cols =
+
+    69
+
+
+cols =
+
+    15
+
+
+cols =
+
+    85
+
+
+cols =
+
+   168
+
+
+cols =
+
+    88
+
+
+cols =
+
+    27
+
+
+cols =
+
+    41
+
+
+cols =
+
+    58
+
+
+cols =
+
+    49
+
+
+cols =
+
+    94
+
+
+cols =
+
+    34
+
+
+cols =
+
+   171
+
+
+cols =
+
+    70
+
+
+cols =
+
+   108
+
+
+cols =
+
+    51
+
+
+cols =
+
+    85
+
+
+cols =
+
+    91
+
+
+cols =
+
+    45
+
+
+cols =
+
+   102
+
+
+cols =
+
+    44
+
+
+cols =
+
+    42
+
+
+cols =
+
+    42
+
+
+cols =
+
+    32
+
+
+cols =
+
+    43
+
+
+cols =
+
+    78
+
+
+cols =
+
+    31
+
+
+cols =
+
+    54
+
+
+cols =
+
+    27
+
+
+cols =
+
+   112
+
+
+cols =
+
+    46
+
+
+cols =
+
+   160
+
+
+cols =
+
+    33
+
+
+cols =
+
+    56
+
+
+cols =
+
+    76
+
+
+cols =
+
+    90
+
+
+cols =
+
+    56
+
+
+cols =
+
+    38
+
+
+cols =
+
+    48
+
+
+cols =
+
+    71
+
+
+cols =
+
+    24
+
+
+cols =
+
+    97
+
+
+cols =
+
+    52
+
+
+cols =
+
+    33
+
+
+cols =
+
+    33
+
+
+cols =
+
+    32
+
+
+cols =
+
+    95
+
+
+cols =
+
+    38
+
+
+cols =
+
+    96
+
+
+cols =
+
+    91
+
+
+cols =
+
+    75
+
+
+cols =
+
+    94
+
+
+cols =
+
+    36
+
+
+cols =
+
+   137
+
+
+cols =
+
+    36
+
+
+cols =
+
+    51
+
+
+cols =
+
+    36
+
+
+cols =
+
+    87
+
+
+cols =
+
+    59
+
+
+cols =
+
+    44
+
+
+cols =
+
+    70
+
+
+cols =
+
+    91
+
+
+cols =
+
+   129
+
+
+cols =
+
+    65
+
+
+cols =
+
+   106
+
+
+cols =
+
+   127
+
+
+cols =
+
+    89
+
+
+cols =
+
+    35
+
+
+cols =
+
+   122
+
+
+cols =
+
+    72
+
+
+cols =
+
+    24
+
+
+cols =
+
+    27
+
+
+cols =
+
+    42
+
+
+cols =
+
+    45
+
+
+cols =
+
+    94
+
+
+cols =
+
+    32
+
+
+cols =
+
+    52
+
+
+cols =
+
+    94
+
+
+cols =
+
+    39
+
+
+cols =
+
+    22
+
+
+cols =
+
+    39
+
+
+cols =
+
+    72
+
+
+cols =
+
+    65
+
+
+cols =
+
+   138
+
+
+cols =
+
+    94
+
+
+cols =
+
+    57
+
+
+cols =
+
+    58
+
+
+cols =
+
+   121
+
+
+cols =
+
+    58
+
+
+cols =
+
+    22
+
+
+cols =
+
+   141
+
+
+cols =
+
+    49
+
+
+cols =
+
+    99
+
+
+cols =
+
+    62
+
+
+cols =
+
+    90
+
+
+cols =
+
+   120
+
+
+cols =
+
+    73
+
+
+cols =
+
+    73
+
+
+cols =
+
+    26
+
+
+cols =
+
+    57
+
+
+cols =
+
+    95
+
+
+cols =
+
+    40
+
+
+cols =
+
+   102
+
+
+cols =
+
+    58
+
+
+cols =
+
+   106
+
+
+cols =
+
+   119
+
+
+cols =
+
+    25
+
+
+cols =
+
+   132
+
+
+cols =
+
+    25
+
+
+cols =
+
+    28
+
+
+cols =
+
+   109
+
+
+cols =
+
+   110
+
+
+cols =
+
+   116
+
+
+cols =
+
+    50
+
+
+cols =
+
+    15
+
+
+cols =
+
+    82
+
+
+cols =
+
+   106
+
+
+cols =
+
+   106
+
+
+cols =
+
+    45
+
+
+cols =
+
+    82
+
+
+cols =
+
+    23
+
+
+cols =
+
+   157
+
+
+cols =
+
+    65
+
+
+cols =
+
+    70
+
+
+cols =
+
+   106
+
+
+cols =
+
+   106
+
+
+cols =
+
+    71
+
+
+cols =
+
+   104
+
+
+cols =
+
+    91
+
+
+cols =
+
+   152
+
+
+cols =
+
+    81
+
+
+cols =
+
+    40
+
+
+cols =
+
+    77
+
+
+cols =
+
+    80
+
+
+cols =
+
+    25
+
+
+cols =
+
+   132
+
+
+cols =
+
+    51
+
+
+cols =
+
+   106
+
+
+cols =
+
+   128
+
+
+cols =
+
+    53
+
+
+cols =
+
+    87
+
+
+cols =
+
+    95
+
+
+cols =
+
+    28
+
+
+cols =
+
+    41
+
+
+cols =
+
+    51
+
+
+cols =
+
+    43
+
+
+cols =
+
+   153
+
+
+cols =
+
+    38
+
+
+cols =
+
+    98
+
+
+cols =
+
+   117
+
+
+cols =
+
+    40
+
+
+cols =
+
+   151
+
+
+cols =
+
+    92
+
+
+cols =
+
+    74
+
+
+cols =
+
+    51
+
+
+cols =
+
+    37
+
+
+cols =
+
+    24
+
+
+cols =
+
+    16
+
+
+cols =
+
+    49
+
+
+cols =
+
+    45
+
+
+cols =
+
+    63
+
+
+cols =
+
+    48
+
+
+cols =
+
+    43
+
+
+cols =
+
+    46
+
+
+cols =
+
+    28
+
+
+cols =
+
+    43
+
+
+cols =
+
+    49
+
+
+cols =
+
+    48
+
+
+cols =
+
+    51
+
+
+cols =
+
+    52
+
+
+cols =
+
+    54
+
+
+cols =
+
+    43
+
+
+cols =
+
+    57
+
+
+cols =
+
+    62
+
+
+cols =
+
+    62
+
+
+cols =
+
+    15
+
+
+cols =
+
+    70
+
+
+cols =
+
+   105
+
+
+cols =
+
+    48
+
+
+cols =
+
+    65
+
+
+cols =
+
+    42
+
+
+cols =
+
+    62
+
+
+cols =
+
+    55
+
+
+cols =
+
+     6
+
+
+cols =
+
+    41
+
+
+cols =
+
+    46
+
+
+cols =
+
+    45
+
+
+cols =
+
+    65
+
+
+cols =
+
+    48
+
+
+cols =
+
+    51
+
+
+cols =
+
+    62
+
+
+cols =
+
+    53
+
+
+cols =
+
+    52
+
+
+cols =
+
+    83
+
+
+cols =
+
+    48
+
+
+cols =
+
+    57
+
+
+cols =
+
+    43
+
+
+cols =
+
+    59
+
+
+cols =
+
+    64
+
+
+cols =
+
+    36
+
+
+cols =
+
+    48
+
+
+cols =
+
+    63
+
+
+cols =
+
+    35
+
+
+cols =
+
+    47
+
+
+cols =
+
+    26
+
+
+cols =
+
+    30
+
+
+cols =
+
+    62
+
+
+cols =
+
+    48
+
+
+cols =
+
+    32
+
+
+cols =
+
+    55
+
+
+cols =
+
+    48
+
+
+cols =
+
+   142
+
+
+cols =
+
+    43
+
+
+cols =
+
+    49
+
+
+cols =
+
+    54
+
+
+cols =
+
+    38
+
+
+cols =
+
+    14
+
+
+cols =
+
+    46
+
+
+cols =
+
+    60
+
+
+cols =
+
+    56
+
+
+cols =
+
+    57
+
+
+cols =
+
+     3
+
+
+cols =
+
+    43
+
+
+cols =
+
+    73
+
+
+cols =
+
+    32
+
+
+cols =
+
+    32
+
+
+cols =
+
+    76
+
+
+cols =
+
+    57
+
+
+cols =
+
+    22
+
+
+cols =
+
+    24
+
+
+cols =
+
+    28
+
+
+cols =
+
+    49
+
+
+cols =
+
+    55
+
+
+cols =
+
+    48
+
+
+cols =
+
+   121
+
+
+cols =
+
+    74
+
+
+cols =
+
+    82
+
+
+cols =
+
+    78
+
+
+cols =
+
+    84
+
+
+cols =
+
+    40
+
+
+cols =
+
+    47
+
+
+cols =
+
+    65
+
+
+cols =
+
+    79
+
+
+cols =
+
+    24
+
+
+cols =
+
+    62
+
+
+cols =
+
+     9
+
+
+cols =
+
+    65
+
+
+cols =
+
+    73
+
+
+cols =
+
+   119
+
+
+cols =
+
+    71
+
+
+cols =
+
+    18
+
+
+cols =
+
+    49
+
+
+cols =
+
+    13
+
+
+cols =
+
+    69
+
+
+cols =
+
+   102
+
+
+cols =
+
+    64
+
+
+cols =
+
+    52
+
+
+cols =
+
+    54
+
+
+cols =
+
+    73
+
+
+cols =
+
+    54
+
+
+cols =
+
+     5
+
+
+cols =
+
+    13
+
+
+cols =
+
+     8
+
+
+cols =
+
+    70
+
+
+cols =
+
+    17
+
+
+cols =
+
+    79
+
+
+cols =
+
+    57
+
+
+cols =
+
+     9
+
+
+cols =
+
+    17
+
+
+cols =
+
+    18
+
+
+cols =
+
+    60
+
+
+cols =
+
+    44
+
+
+cols =
+
+    98
+
+
+cols =
+
+    11
+
+
+cols =
+
+   151
+
+
+cols =
+
+   118
+
+
+cols =
+
+   129
+
+
+cols =
+
+    61
+
+
+cols =
+
+    86
+
+
+cols =
+
+    41
+
+
+cols =
+
+    34
+
+
+cols =
+
+   102
+
+
+cols =
+
+   131
+
+
+cols =
+
+    90
+
+
+cols =
+
+    64
+
+
+cols =
+
+    38
+
+
+cols =
+
+   103
+
+
+cols =
+
+    62
+
+
+cols =
+
+     6
+
+
+cols =
+
+    32
+
+
+cols =
+
+    22
+
+
+cols =
+
+    54
+
+
+cols =
+
+    60
+
+
+cols =
+
+   180
+
+
+cols =
+
+   107
+
+
+cols =
+
+    15
+
+
+cols =
+
+    90
+
+
+cols =
+
+    54
+
+
+cols =
+
+    93
+
+
+cols =
+
+    16
+
+
+cols =
+
+    34
+
+
+cols =
+
+    80
+
+
+cols =
+
+    58
+
+
+cols =
+
+    29
+
+
+cols =
+
+    84
+
+
+cols =
+
+    41
+
+
+cols =
+
+    77
+
+
+cols =
+
+    33
+
+
+cols =
+
+    34
+
+
+cols =
+
+    57
+
+
+cols =
+
+    61
+
+
+cols =
+
+    36
+
+
+cols =
+
+    41
+
+
+cols =
+
+    41
+
+
+cols =
+
+    75
+
+
+cols =
+
+    47
+
+
+cols =
+
+    36
+
+
+cols =
+
+    37
+
+
+cols =
+
+    42
+
+
+cols =
+
+    59
+
+
+cols =
+
+    32
+
+
+cols =
+
+    56
+
+
+cols =
+
+    17
+
+
+cols =
+
+    46
+
+
+cols =
+
+    62
+
+
+cols =
+
+    42
+
+
+cols =
+
+    62
+
+
+cols =
+
+    37
+
+
+cols =
+
+    47
+
+
+cols =
+
+    45
+
+
+cols =
+
+    43
+
+
+cols =
+
+    38
+
+
+cols =
+
+    36
+
+
+cols =
+
+    57
+
+
+cols =
+
+    31
+
+
+cols =
+
+    49
+
+
+cols =
+
+    47
+
+
+cols =
+
+    48
+
+
+cols =
+
+    35
+
+
+cols =
+
+    60
+
+
+cols =
+
+    35
+
+
+cols =
+
+    64
+
+
+cols =
+
+    40
+
+
+cols =
+
+    49
+
+
+cols =
+
+    35
+
+
+cols =
+
+    47
+
+
+cols =
+
+    37
+
+
+cols =
+
+    16
+
+
+cols =
+
+    49
+
+
+cols =
+
+    52
+
+
+cols =
+
+    43
+
+
+cols =
+
+    87
+
+
+cols =
+
+    66
+
+
+cols =
+
+    31
+
+
+cols =
+
+    75
+
+
+cols =
+
+    34
+
+
+cols =
+
+   131
+
+
+cols =
+
+    35
+
+
+cols =
+
+    33
+
+
+cols =
+
+    54
+
+
+cols =
+
+    42
+
+
+cols =
+
+    50
+
+
+cols =
+
+    39
+
+
+cols =
+
+    43
+
+
+cols =
+
+    60
+
+
+cols =
+
+    36
+
+
+cols =
+
+    31
+
+
+cols =
+
+    32
+
+
+cols =
+
+    73
+
+
+cols =
+
+    31
+
+
+cols =
+
+   104
+
+
+cols =
+
+    47
+
+
+cols =
+
+    41
+
+
+cols =
+
+    55
+
+
+cols =
+
+    68
+
+
+cols =
+
+    47
+
+
+cols =
+
+    35
+
+
+cols =
+
+    69
+
+
+cols =
+
+    41
+
+
+cols =
+
+    69
+
+
+cols =
+
+    49
+
+
+cols =
+
+    37
+
+
+cols =
+
+    61
+
+
+cols =
+
+    57
+
+
+cols =
+
+    47
+
+
+NBKNN Amazon->Amazon, rec. rate: 66.23 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 65.44 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 65.96 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 65.30 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 65.44 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt   ztjc.m~
+
+
+NBKNN Amazon->Amazon, rec. rate: 67.68 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN Amazon->Amazon, rec. rate: 63.98 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+Testing NBKNN on class 1, with K=1...
+Testing NBKNN on class 2, with K=1...
+Testing NBKNN on class 3, with K=1...
+Testing NBKNN on class 4, with K=1...
+Testing NBKNN on class 5, with K=1...
+Testing NBKNN on class 6, with K=1...
+Testing NBKNN on class 7, with K=1...
+Testing NBKNN on class 8, with K=1...
+Testing NBKNN on class 9, with K=1...
+Testing NBKNN on class 10, with K=1...
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.09 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+Undefined function or variable 'amazon'.
+
+Error in demo (line 48)
+target=amazon;
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+Testing NBKNN on class 1, with K=1...
+Testing NBKNN on class 2, with K=1...
+Testing NBKNN on class 3, with K=1...
+Testing NBKNN on class 4, with K=1...
+Testing NBKNN on class 5, with K=1...
+Testing NBKNN on class 6, with K=1...
+Testing NBKNN on class 7, with K=1...
+Testing NBKNN on class 8, with K=1...
+Testing NBKNN on class 9, with K=1...
+Testing NBKNN on class 10, with K=1...
+
+NBKNN Amazon->Amazon, rec. rate: 63.06 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 67.94 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.09 % where K=1
+>> load('/home/xsx/Project/DANBNN_demo/Office+Caltech/data_amazon.mat')
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 63.06 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 67.28 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 36.12 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.20 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.09 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 35.68 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.09 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.96 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.42 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+>> load('perImage.mat')
+>> ztjc
+>> ztjc
+>> ztjc
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+>> ztjc
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.42 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 38.50 % where K=1
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.96 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.96 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 36.77 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 37.20 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  flann	 Office+Caltech  result2.txt  result.txt
+demo.m	    functions	 perImage.mat	 result3.txt  splits
+demo.m~     licence.txt  README.txt	 result4.txt  ztjc.m
+
+
+NBKNN Amazon->Amazon, rec. rate: 38.18 % where K=1
+
+NBKNN Amazon->Amazon, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN caltech->caltech, rec. rate: 38.18 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> load('perImage.mat')
+>> run_NBKNN_NORM
+Error using run_NBKNN_NORM (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+Undefined function or variable 'sigmal'.
+
+Error in run_NBKNN_NORM (line 97)
+        perVaule(i)=mu*sigmal;
+
+Error in demo (line 54)
+[accuracyIN]=run_NBKNN_NORM(target,1);
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+Undefined function 'min' for input arguments of type 'cell'.
+
+Error in run_NBKNN_NORM (line 114)
+[~, predict_labels_T]=min(dec_values_T,[],2);
+
+Error in demo (line 54)
+[accuracyIN]=run_NBKNN_NORM(target,1);
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN caltech->caltech, rec. rate: 14.21 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM caltech->caltech, rec. rate: 14.21 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM caltech->caltech, rec. rate: 30.91 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM caltech->caltech, rec. rate: 30.91 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> run_NBKNN_NORM
+Error using run_NBKNN_NORM (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM caltech->caltech, rec. rate: 27.55 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM caltech->caltech, rec. rate: 2.93 % where K=1
+
+NBKNN caltech->caltech, rec. rate: 36.66 % where K=1
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM amazon->amazon, rec. rate: 54.49 % where K=1
+
+NBKNN amazon->amazon, rec. rate: 57.52 % where K=1
+>> run_NBKNN_NORM
+Error using run_NBKNN_NORM (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM amazon->amazon, rec. rate: 54.49 % where K=1
+
+NBKNN amazon->amazon, rec. rate: 59.50 % where K=1
+>> run_NBKNN
+Error using run_NBKNN (line 34)
+Not enough input arguments.
+ 
+>> demo
+demo.bak.m  functions	    perImage.mat  result3.txt  splits
+demo.m	    licence.txt     README.txt	  result4.txt  ztjc.m
+flann	    Office+Caltech  result2.txt   result.txt
+
+
+NBKNN_NORM amazon->amazon, rec. rate: 54.49 % where K=1
+
+NBKNN amazon->amazon, rec. rate: 67.94 % where K=1
+>
